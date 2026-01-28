@@ -55,8 +55,8 @@ Premium managed hosting with automatic updates, backups, and premium features. S
 Built by a small team passionate about privacy, sustainability, and making everyday tasks easier:
 
 - **Harun** - Founder & Lead Developer
-- **Rachel Surette** - Marketing, Branding & Sustainability
-- **Elle Russel Chopra** - Lead UI/UX Designer
+- **Rachel Surette** - Co-Founder & Marketing, Branding & Sustainability
+- **Elle Russel Chopra** - Co-Founder & Lead UI/UX Designer
 - **Chris** - Co-Founder & DevOps/Systems Lead
 - **Chaitanya Gunupudi** - Senior Advisor (Cybersecurity/DevOps)
 
