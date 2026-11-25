@@ -7,16 +7,16 @@
 
 <!-- Check all that apply -->
 
-- [ ] 🐛 Bug fix (fixes an issue, no breaking changes)
-- [ ] ✨ New feature (adds functionality, no breaking changes)
-- [ ] 💥 Breaking change (fix or feature that changes existing behavior)
-- [ ] 📝 Documentation update
-- [ ] 🎨 UI/UX improvement
-- [ ] ♻️ Code refactor (no functional changes)
-- [ ] ⚡ Performance improvement
-- [ ] 🔒 Security fix
-- [ ] 🧪 Test coverage
-- [ ] 🔧 Configuration/infrastructure change
+- [ ] Bug fix (fixes an issue, no breaking changes)
+- [ ] New feature (adds functionality, no breaking changes)
+- [ ] Breaking change (fix or feature that changes existing behavior)
+- [ ] Documentation update
+- [ ] UI/UX improvement
+- [ ] Code refactor (no functional changes)
+- [ ] Performance improvement
+- [ ] Security fix
+- [ ] Test coverage
+- [ ] Configuration/infrastructure change
 
 
 ## How has this been tested?
