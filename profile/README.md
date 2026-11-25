@@ -20,12 +20,12 @@ No ads, no tracking, and nothing about you is sold.
 |---|---|---|---|
 | **[finPal](https://github.com/palStack-io/finpal-core)** | Budgets, goals, debt and shared costs, and it teaches money from your own figures as you go | [finpal-core](https://github.com/palStack-io/finpal-core) | [Demo](https://findemo.palstack.io) · [palstack.io/finpal](https://palstack.io/finpal) |
 | **[pantryPal](https://github.com/palStack-io/pantrypal-core)** | Know what is in the kitchen, use it before it expires, one shared shopping list, recipes from what you have | [pantrypal-core](https://github.com/palStack-io/pantrypal-core) | [Demo](https://pantrydemo.palstack.io) · [palstack.io/pantrypal](https://palstack.io/pantrypal) |
-| **[propertyPal](https://github.com/palStack-io/propertypal-core)** | Maintenance, appliances and warranties, documents, projects and what the house costs | [propertypal-core](https://github.com/palStack-io/propertypal-core) | [Demo](https://propertydemo.palstack.io) · [palstack.io/propertypal](https://palstack.io/propertypal) |
-| **[gatherPal](https://github.com/palStack-io/clubpal-core)** | Your friend group, without the admin: plans, invites, rotations and who brings what | [clubpal-core](https://github.com/palStack-io/clubpal-core) (read its security note first) | [Demo](https://clubdemo.palstack.io) · [palstack.io/gatherpal](https://palstack.io/gatherpal) |
+| **[propertyPal](https://github.com/palStack-io/propertypal-core)** | Maintenance, appliances and warranties, documents, projects and what the house costs | [propertypal-core](https://github.com/palStack-io/propertypal-core) | [Hosted demo](https://propertydemo.palstack.io) · [palstack.io/propertypal](https://palstack.io/propertypal) |
+| **[gatherPal](https://github.com/palStack-io/clubpal-core)** | Your friend group, without the admin: plans, invites, rotations and who brings what | [clubpal-core](https://github.com/palStack-io/clubpal-core) (read its security note first) | [Hosted demo](https://clubdemo.palstack.io) · [palstack.io/gatherpal](https://palstack.io/gatherpal) |
 | **[jobsearchPal](https://github.com/palStack-io/jobsearchPal)** (labs) | A job-search assistant on your own computer: tailored applications you review and send yourself, plus the unemployment paperwork | [jobsearchPal](https://github.com/palStack-io/jobsearchPal) | [palstack.io/labs/jobsearchpal](https://palstack.io/labs/jobsearchpal) |
 | **[pointsPal](https://github.com/palStack-io/pointsPal)** | An open dataset of credit card rewards that powers finPal's card optimiser | Data, MIT | [dist/programs.json](https://github.com/palStack-io/pointsPal/blob/main/dist/programs.json) |
 
-Each repository's README has a quick start. Most pals are up in a few minutes with Docker Compose and a generated
+"Hosted demo" links show the hosted edition, which is ahead of Core for those pals. Each repository's README has a quick start. Most pals are up in a few minutes with Docker Compose and a generated
 `.env`.
 
 ## How we build
