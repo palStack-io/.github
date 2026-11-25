@@ -49,6 +49,12 @@ purchase (no subscription), starting January 2027. Most pals are up in a few min
 - **Code contributions are paused** while we work out how to review AI-assisted changes well. We will reopen them.
 - **Security problems:** please report privately; see our [security policy](https://github.com/palStack-io/.github/blob/main/SECURITY.md).
 
+## Support the work
+
+palStack is built by a small team in their spare time. If a pal saves you time or money, you can support it through
+[GitHub Sponsors](https://github.com/sponsors/harung1993) or [Buy Me a Coffee](https://buymeacoffee.com/cCFW6gZz28).
+Starring a repository and telling a friend helps too.
+
 ## Team
 
 A small team with day jobs, building tools we use ourselves.
