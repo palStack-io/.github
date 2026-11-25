@@ -25,7 +25,10 @@ No ads, no tracking, and nothing about you is sold.
 | **[jobsearchPal](https://github.com/palStack-io/jobsearchPal)** (labs) | A job-search assistant on your own computer: tailored applications you review and send yourself, plus the unemployment paperwork | [jobsearchPal](https://github.com/palStack-io/jobsearchPal) | [palstack.io/labs/jobsearchpal](https://palstack.io/labs/jobsearchpal) |
 | **[pointsPal](https://github.com/palStack-io/pointsPal)** | An open dataset of credit card rewards that powers finPal's card optimiser | Data, MIT | [dist/programs.json](https://github.com/palStack-io/pointsPal/blob/main/dist/programs.json) |
 
-"Hosted demo" links show the hosted edition, which is ahead of Core for those pals. Each repository's README has a quick start. Most pals are up in a few minutes with Docker Compose and a generated
+"Hosted demo" links show the hosted edition, which is ahead of Core for those pals. Each repository's README has a quick start.
+
+**Phone apps** for iOS and Android are included with the hosted editions. For self-hosters they will be a one-time
+purchase (no subscription), starting January 2027. Most pals are up in a few minutes with Docker Compose and a generated
 `.env`.
 
 ## How we build
