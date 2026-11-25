@@ -13,6 +13,7 @@ Open an issue on the pal's own repository:
 - [finpal-core](https://github.com/palStack-io/finpal-core/issues)
 - [pantrypal-core](https://github.com/palStack-io/pantrypal-core/issues)
 - [propertypal-core](https://github.com/palStack-io/propertypal-core/issues)
+- [clubpal-core](https://github.com/palStack-io/clubpal-core/issues) (gatherPal)
 - [jobsearchPal](https://github.com/palStack-io/jobsearchPal/issues)
 - [pointsPal](https://github.com/palStack-io/pointsPal/issues) (card data corrections; please link the issuer's page)
 
